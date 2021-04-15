@@ -2,6 +2,7 @@ package jpabook.jpashop.repository;
 
 import static org.junit.Assert.*;
 
+import jpabook.jpashop.Service.MemberService;
 import jpabook.jpashop.domain.Member;
 import org.junit.Test;
 import org.junit.runner.RunWith;
